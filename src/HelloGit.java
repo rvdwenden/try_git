@@ -6,7 +6,8 @@ public class HelloGit {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Hello Git master develop");
-		System.out.println("merge");
+		System.out.println("merge change from 2");
+		
 	}
 
 }
