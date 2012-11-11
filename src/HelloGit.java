@@ -9,6 +9,7 @@ public class HelloGit {
 
 		System.out.println("merge");
 		System.out.println("merge from 1 & 2");
+		System.out.println("nieuwe wijziging");
 
 	}
 
